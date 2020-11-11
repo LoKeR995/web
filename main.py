@@ -7,3 +7,5 @@ print('second')
 #  git status - проверяем файл на изменении
 #  git add -A - сохраняем
 #  git commit -m 'Name save' - названия сохраняемого копии
+#  git branch name - создаем ветки где name название ветки
+#  git branch - проверяем на каком ветке мы находимся
