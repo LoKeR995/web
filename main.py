@@ -1,4 +1,5 @@
 print('hello')
+print('second')
 
 #  git checkout hash - откат версии
 #  git log - получаем hash
